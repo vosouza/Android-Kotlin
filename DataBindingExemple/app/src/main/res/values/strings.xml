@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBindingExemple</string>
+    <string name="MyName">Vinicius Olviera Souza</string>
+    <string name="HitnNickName">Add your nick name</string>
+</resources>
